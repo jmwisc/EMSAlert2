@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\JJM\.android\build-cache\7e29ad73a8802035748f847ef453d4305bfdbe1c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\pre-dexed\debug\classes_7642eaf04d6f5d2ca48d7187decdda1f3e41f5ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JJM\.android\build-cache\521adc585e664a85eac08da5da3f650db9263626\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\pre-dexed\debug\classes_33367ca3830ecfbd04b079ac0ef78e823896ab5b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b0573d1bf6519cc774e1f8031cfb04257424345f">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2874cfb9968f14886b32e1b64dbbca76e580304e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JJM\.android\build-cache\e4d93f9501a972d02ebd7a142ac87a5bee86ab35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da408ec0abc0b9160723827146320e37d9ce3967\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7aae13116794b3333fd2a9f9e0124c29dbe55e0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JJM\.android\build-cache\a976b43512e12a6c20b7d079cb1df9fac4648759\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\pre-dexed\debug\classes_becff107b120c4cb3bbb730014d45daaf71432b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JJM\.android\build-cache\d9894aa227e2633a85ad49dcf2967ac830c6b647\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\pre-dexed\debug\classes_448d80e6cf70d34d408efd2f814ac9fc7f379309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JJM\.android\build-cache\a6151c4b79f156126c4addfc897949213e1216bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\pre-dexed\debug\classes_e78ce7b97bde62a765d94093752f93ca4b069551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JJM\.android\build-cache\a1552266982ecf440e0b8164efe0ab5c9d9c409e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\pre-dexed\debug\classes_d1a02dab2b568a82de596b230d1f53d85742706f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JJM\.android\build-cache\f5c648ce8356343094594aaf0dfdb1fda251e565\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bed7b583b449b1d8fc03844b8bfee3c4b10fdab6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JJM\.android\build-cache\65301b5f3a753a0726a7574b46100bba83b316ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1845072d0c811fb2455ec1aa62fde13d91ab75e0\classes.dex" />
+    </item>
+
+</items>
